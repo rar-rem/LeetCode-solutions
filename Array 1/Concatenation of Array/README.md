@@ -59,23 +59,6 @@ ans = [1, 3, 2, 1, 1, 3, 2, 1]
 
 ---
 
-## 💡 Approach (High Level)
-
-- Create a new array of size `2n`
-- Copy elements from `nums` into:
-  - the first half of the array
-  - the second half of the array
-
----
-
-## ⏱ Complexity Analysis
-
-- **Time Complexity:** `O(n)`
-- **Space Complexity:** `O(n)`
-
----
-
 ## 💻 Solutions
-
-- 👉 [Java Solution](solution.java)
-- 👉 [Python Solution](solution.py)
+- 👉 [Java Solution](Solution.java)
+- 👉 [Python Solution](Solution.py)
